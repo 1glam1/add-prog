@@ -19,6 +19,7 @@
 Там же можно запустить файл в интерактивном окне.
 ## Тесты
 1. В терминале
-![Alt text](image.png)
+![image](https://github.com/1glam1/add-prog/assets/102163352/94bacb65-177e-44fb-8e4f-b0cb8a590389)
 2. В интерактивном окне
-![Alt text](image-1.png)
+![image](https://github.com/1glam1/add-prog/assets/102163352/0f9a8651-8c50-49a9-bdd5-09493059c545)
+
