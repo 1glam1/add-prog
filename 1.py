@@ -1,5 +1,5 @@
-a = int(input('Введите 1 число:'))
-b = int(input('Введите 2 число:'))
+a = float(input('Введите 1 число:'))
+b = float(input('Введите 2 число:'))
 max = 0
 min = 0
 print('1 Сложение',a+b)
@@ -22,5 +22,6 @@ else:
     max=a
     min=a
 print('5 Разность максимума и минимума',max-min)
-print('6 Частное',a/b)
+
+print('6 Частное',round(a/b,2))
 
